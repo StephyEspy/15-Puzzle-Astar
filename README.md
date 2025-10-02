@@ -1,6 +1,6 @@
 # A* Solver for the 15-Puzzle (4×4)
 
-My independent, from-scratch implementation of the A* search algorithm for the classic 15-puzzle.  
+My from-scratch implementation of the A* search algorithm for the classic 15-puzzle.  
 Includes a clean state model, correct solvability check for 4×4 boards, multiple admissible heuristics, a CLI, and tests.
 
 ## Quickstart
